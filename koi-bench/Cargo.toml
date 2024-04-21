@@ -11,9 +11,9 @@ path="bin.rs"
 indicatif="0.17"
 strum="0.26"
 strum_macros="0.26"
-walkdir="2.3"
+walkdir="2.5"
 
 koi={path="../koi"}
-png="0.17.8"
-qoi="0.4"
-webp="0.2.2"
+png="0.17.13"
+qoi="0.4.1"
+webp="0.3.0"

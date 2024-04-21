@@ -12,4 +12,4 @@ path="bin.rs"
 
 [dependencies]
 koi={path="../koi"}
-png="0.17.8"
+png="0.17.13"
